@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+}
+
+.container {
+    display: flex;
+}
+
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: 1;
+    color: #fff;
+    box-sizing: border-box;
+}
+
+.box1 {
+    background-color: #3498db;
+}
+
+.box2 {
+    background-color: #e74c3c;
+}
+
+.box3 {
+    background-color: #2ecc71;
+}
+
+.box4 {
+    background-color: #f39c12;
+}
+
+.box5 {
+    background-color: #9b59b6;
+}
